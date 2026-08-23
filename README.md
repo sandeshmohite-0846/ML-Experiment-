@@ -70,3 +70,40 @@ y = data["target"]
 print(f"Dataset arrays loaded successfully with shape: {X.shape}")
 ```
 
+<br>
+
+# Linear Regression Model
+
+A simple **Linear Regression** model built using Python and machine learning libraries.
+
+## 📌 Features
+
+* Loads and processes data
+* Trains a Linear Regression model
+* Makes predictions
+* Displays model output/visualization
+
+## 🛠️ Technologies
+
+* Python
+* NumPy
+* Pandas
+* Matplotlib
+* Scikit-learn
+
+## ▶️ How to Run
+
+```bash
+pip install numpy pandas matplotlib scikit-learn
+python linear_regression.py
+```
+
+## 📊 Output
+
+The model generates a prediction/visualization like the image below:
+
+![Linear Regression Output](output.png)
+
+> Replace `output.png` with the actual filename of your output image.
+
+
