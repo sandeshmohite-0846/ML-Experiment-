@@ -1,4 +1,4 @@
- # Python-Libraries
+ # 1.Python-Libraries
 
 Complete Python Library Google Colab Notebooks.
 
@@ -72,7 +72,7 @@ print(f"Dataset arrays loaded successfully with shape: {X.shape}")
 
 <br>
 
-# Linear Regression Model
+# 2.Simple Linear Regression Model
 
 A simple **Linear Regression** model built using Python and machine learning libraries.
 
@@ -102,7 +102,7 @@ python linear_regression.py
 
 The model generates a prediction/visualization like the image below:
 
-![Linear Regression Output](output.png)
+![Linear Regression Output](Output_Predicted(SLR).png)
 
 > Replace `output.png` with the actual filename of your output image.
 
