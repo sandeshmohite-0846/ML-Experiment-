@@ -72,7 +72,7 @@ print(f"Dataset arrays loaded successfully with shape: {X.shape}")
 
 <br>
 
-# 2.Simple Linear Regression Model
+# 2.Simple Linear Regression
 
 A simple **Linear Regression** model built using Python and machine learning libraries.
 
