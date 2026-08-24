@@ -108,23 +108,21 @@ The model generates a prediction/visualization like the image below:
 
 <br>
 
-# Student Result Prediction
+# Logistic Regression For Binary Classification
 
-This project uses **Logistic Regression** for binary classification to predict whether a student will pass or fail.
+This project uses **Logistic Regression** for binary classification to predict whether a student will be placed or not.
 
 ## Dataset
 
-The dataset contains 100 student records with 3 columns:
-
-* `Study_Hours` – Number of hours studied
-* `Previous_Year_Marks` – Previous year marks
-* `Passed` – Target variable (0 = Fail, 1 = Pass)
+* `CGPA` – Number of hours studied
+* `IQ` – Previous year marks
+* `Placement` – Target variable (0 = Not Placed, 1 = Placed)
 
 ## Output
 
-The model predicts whether a student will **Pass (1)** or **Fail (0)** based on study hours and previous year marks.
+The model predicts whether a student will be **Placed (1)** or **Not Placed (0)** based on CGPA and IQ.
 
-![Output](output.png)
+![Output](Prediction(LR).png)
 
 
 
