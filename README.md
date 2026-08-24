@@ -120,7 +120,7 @@ This project uses **Logistic Regression** for binary classification to predict w
 
 The model predicts whether a student will be **Placed (1)** or **Not Placed (0)** based on CGPA and IQ.
 
-![Output](Predition_LR.png)
+![Output](Prediction_LR.png)
 
 
 
