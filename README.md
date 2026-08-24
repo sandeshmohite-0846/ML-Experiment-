@@ -108,7 +108,7 @@ The model generates a prediction/visualization like the image below:
 
 <br>
 
-# Logistic Regression For Binary Classification
+# 4.Logistic Regression For Binary Classification
 
 This project uses **Logistic Regression** for binary classification to predict whether a student will be placed or not.
 
@@ -122,7 +122,7 @@ This project uses **Logistic Regression** for binary classification to predict w
 
 The model predicts whether a student will be **Placed (1)** or **Not Placed (0)** based on CGPA and IQ.
 
-![Output](Prediction(LR).png)
+![Output](Predition_LR.png)
 
 
 
