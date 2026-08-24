@@ -104,8 +104,6 @@ The model generates a prediction/visualization like the image below:
 
 ![Linear Regression Output](Output_Predicted(SLR).png)
 
-> Replace `output.png` with the actual filename of your output image.
-
 <br>
 
 # 4.Logistic Regression For Binary Classification
