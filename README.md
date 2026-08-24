@@ -106,4 +106,25 @@ The model generates a prediction/visualization like the image below:
 
 > Replace `output.png` with the actual filename of your output image.
 
+<br>
+
+# Student Result Prediction
+
+This project uses **Logistic Regression** for binary classification to predict whether a student will pass or fail.
+
+## Dataset
+
+The dataset contains 100 student records with 3 columns:
+
+* `Study_Hours` – Number of hours studied
+* `Previous_Year_Marks` – Previous year marks
+* `Passed` – Target variable (0 = Fail, 1 = Pass)
+
+## Output
+
+The model predicts whether a student will **Pass (1)** or **Fail (0)** based on study hours and previous year marks.
+
+![Output](output.png)
+
+
 
