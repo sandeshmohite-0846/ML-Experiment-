@@ -122,5 +122,41 @@ The model predicts whether a student will be **Placed (1)** or **Not Placed (0)*
 
 ![Output](Prediction_LR.png)
 
+<br>
+
+
+# 5.Logistic Regression – Multiclass Classification
+
+## About
+
+This project uses **Logistic Regression** for **multiclass classification**. The model predicts which class a given input belongs to using Python and Scikit-learn.
+
+## Technologies Used
+
+* Python
+* Pandas
+* NumPy
+* Scikit-learn
+* Matplotlib
+
+## Workflow
+
+1. Load the dataset
+2. Preprocess the data
+3. Split the data into training and testing sets
+4. Train the Logistic Regression model
+5. Make predictions
+6. Evaluate the model
+
+## Output
+
+![Model Output](LR_for_multiclass.png)
+
+The output shows the predictions and performance of the multiclass classification model.
+
+## Author
+
+Sandesh Mohite
+
 
 
