@@ -133,7 +133,10 @@ Technologies Used
 
 ## Output
 The model predicts the target value based on the given input features.
-![Output](output.png)
+![Output](Output_Predicted(MLR).png)
+
+
+<br>
 
 
 # 4.Logistic Regression For Binary Classification
