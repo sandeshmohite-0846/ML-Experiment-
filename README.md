@@ -104,7 +104,37 @@ The model generates a prediction/visualization like the image below:
 
 ![Linear Regression Output](Output_Predicted(SLR).png)
 
+
 <br>
+
+
+# 3.Multiple Linear Regression
+
+This experiment demonstrates Multiple Linear Regression, a supervised machine learning algorithm used to predict a dependent variable using two or more independent variables.
+
+## Objective
+
+To build a Multiple Linear Regression model and predict the target value based on multiple input features.
+
+Technologies Used
+* Python
+* NumPy
+* Pandas
+* Matplotlib
+* Scikit-learn
+
+## Steps
+* Load the dataset.
+* Perform data preprocessing.
+* Split data into training and testing sets.
+* Train the Multiple Linear Regression model.
+* Make predictions.
+* Evaluate the model performance.
+
+## Output
+The model predicts the target value based on the given input features.
+![Output](output.png)
+
 
 # 4.Logistic Regression For Binary Classification
 
@@ -157,6 +187,4 @@ The output shows the predictions and performance of the multiclass classificatio
 ## Author
 
 Sandesh Mohite
-
-
 
