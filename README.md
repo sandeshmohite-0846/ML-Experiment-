@@ -187,7 +187,37 @@ This project uses **Logistic Regression** for **multiclass classification**. The
 
 The output shows the predictions and performance of the multiclass classification model.
 
-## Author
+<br>
 
-Sandesh Mohite
+
+# 6.Decision Tree Classifier
+
+## About
+A machine learning web application that predicts the possibility of heart disease using a **Decision Tree Classifier with Gini Index**.
+
+## Features
+- Takes patient health details as input.
+- Uses a trained Decision Tree model.
+- Displays prediction and model confidence.
+- Built with Flask, HTML, CSS and JavaScript.
+
+## Technologies
+- Python
+- Flask
+- NumPy
+- Scikit-learn
+- HTML
+- CSS
+- JavaScript
+
+## How to Run
+
+```bash
+pip install flask numpy scikit-learn
+python app.py
+```
+
+## Output
+
+![Model Output](decision_tree_classifier_output.png)
 
